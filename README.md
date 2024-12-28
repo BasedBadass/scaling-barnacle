@@ -1,4 +1,4 @@
-# System Status & Update Script
+# System Status & Update Script 
 
 This script checks and displays various system information on a Debian-based system including:
 
